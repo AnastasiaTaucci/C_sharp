@@ -1,0 +1,14 @@
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\bin\Debug\net6.0\StaticDogHW.exe
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\bin\Debug\net6.0\StaticDogHW.deps.json
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\bin\Debug\net6.0\StaticDogHW.runtimeconfig.json
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\bin\Debug\net6.0\StaticDogHW.dll
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\bin\Debug\net6.0\StaticDogHW.pdb
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\obj\Debug\net6.0\StaticDogHW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\obj\Debug\net6.0\StaticDogHW.AssemblyInfoInputs.cache
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\obj\Debug\net6.0\StaticDogHW.AssemblyInfo.cs
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\obj\Debug\net6.0\StaticDogHW.csproj.CoreCompileInputs.cache
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\obj\Debug\net6.0\StaticDogHW.dll
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\obj\Debug\net6.0\refint\StaticDogHW.dll
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\obj\Debug\net6.0\StaticDogHW.pdb
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\obj\Debug\net6.0\StaticDogHW.genruntimeconfig.cache
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\obj\Debug\net6.0\ref\StaticDogHW.dll

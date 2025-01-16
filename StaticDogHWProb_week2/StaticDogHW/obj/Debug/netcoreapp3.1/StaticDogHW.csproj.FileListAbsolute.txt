@@ -1,0 +1,13 @@
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\bin\Debug\netcoreapp3.1\StaticDogHW.exe
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\bin\Debug\netcoreapp3.1\StaticDogHW.deps.json
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\bin\Debug\netcoreapp3.1\StaticDogHW.runtimeconfig.json
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\bin\Debug\netcoreapp3.1\StaticDogHW.runtimeconfig.dev.json
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\bin\Debug\netcoreapp3.1\StaticDogHW.dll
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\bin\Debug\netcoreapp3.1\StaticDogHW.pdb
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.AssemblyInfoInputs.cache
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.AssemblyInfo.cs
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.csproj.CoreCompileInputs.cache
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.dll
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.pdb
+D:\Stasy\School\Front-end\Dev_120_c#\HW\StaticDogHWProb_week2\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.genruntimeconfig.cache
