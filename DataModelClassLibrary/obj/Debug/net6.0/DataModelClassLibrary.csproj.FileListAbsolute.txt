@@ -1,0 +1,11 @@
+D:\Stasy\School\Front-end\Dev_120_c#\week_3\3TierFakeDB-CORE\DataModelClassLibrary\bin\Debug\net6.0\DataModelClassLibrary.deps.json
+D:\Stasy\School\Front-end\Dev_120_c#\week_3\3TierFakeDB-CORE\DataModelClassLibrary\bin\Debug\net6.0\DataModelClassLibrary.dll
+D:\Stasy\School\Front-end\Dev_120_c#\week_3\3TierFakeDB-CORE\DataModelClassLibrary\bin\Debug\net6.0\DataModelClassLibrary.pdb
+D:\Stasy\School\Front-end\Dev_120_c#\week_3\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\net6.0\DataModelClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stasy\School\Front-end\Dev_120_c#\week_3\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\net6.0\DataModelClassLibrary.AssemblyInfoInputs.cache
+D:\Stasy\School\Front-end\Dev_120_c#\week_3\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\net6.0\DataModelClassLibrary.AssemblyInfo.cs
+D:\Stasy\School\Front-end\Dev_120_c#\week_3\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\net6.0\DataModelClassLibrary.csproj.CoreCompileInputs.cache
+D:\Stasy\School\Front-end\Dev_120_c#\week_3\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\net6.0\DataModelClassLibrary.dll
+D:\Stasy\School\Front-end\Dev_120_c#\week_3\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\net6.0\refint\DataModelClassLibrary.dll
+D:\Stasy\School\Front-end\Dev_120_c#\week_3\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\net6.0\DataModelClassLibrary.pdb
+D:\Stasy\School\Front-end\Dev_120_c#\week_3\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\net6.0\ref\DataModelClassLibrary.dll
